@@ -1,1 +1,85 @@
-
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 500,
+      "location": "New York",
+      "quality": "High",
+      "description": "A high-quality smartphone with advanced features and powerful performance.",
+      "reviews": [
+        {
+          "username": "JohnDoe",
+          "rating": 4.5,
+          "comment": "Great smartphone! Fast delivery and excellent customer service."
+        },
+        {
+          "username": "JaneSmith",
+          "rating": 5,
+          "comment": "Absolutely love this phone! Best purchase I've made."
+        }
+      ],
+      "specifications": {
+        "display": "6.2-inch AMOLED",
+        "processor": "Snapdragon 888",
+        "memory": "8GB RAM, 128GB storage",
+        "camera": "48MP + 12MP + 5MP triple camera",
+        "battery": "4000mAh"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1000,
+      "location": "San Francisco",
+      "quality": "Premium",
+      "description": "A premium laptop with high-performance specifications and a sleek design.",
+      "reviews": [
+        {
+          "username": "SarahJohnson",
+          "rating": 4,
+          "comment": "The laptop works great and handles heavy tasks with ease."
+        },
+        {
+          "username": "DavidLee",
+          "rating": 4.8,
+          "comment": "Excellent laptop for gaming and professional work."
+        }
+      ],
+      "specifications": {
+        "display": "15.6-inch Full HD",
+        "processor": "Intel Core i7",
+        "memory": "16GB RAM, 1TB SSD",
+        "graphics": "NVIDIA GeForce RTX 3070",
+        "battery": "72Wh"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 100,
+      "location": "Chicago",
+      "quality": "Medium",
+      "description": "Comfortable headphones with good sound quality and noise cancellation.",
+      "reviews": [
+        {
+          "username": "EmilyWilliams",
+          "rating": 4.2,
+          "comment": "Decent headphones for the price. Could have better bass."
+        },
+        {
+          "username": "MichaelBrown",
+          "rating": 3.5,
+          "comment": "Average headphones. Not the best, but not bad either."
+        }
+      ],
+      "specifications": {
+        "type": "Over-Ear",
+        "connectivity": "Bluetooth 5.0",
+        "frequencyResponse": "20Hz - 20kHz",
+        "batteryLife": "20 hours",
+        "noiseCancellation": true
+      }
+    }
+  ]
+}
